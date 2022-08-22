@@ -23,7 +23,7 @@ driver.get("https://www.instagram.com/res.osman/")
  
 sleep(7)
 follow = driver.find_element(By.CSS_SELECTOR,"._acan._acap._acas").click()  
-import os 
+
 
 
 
